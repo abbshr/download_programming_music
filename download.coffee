@@ -1,3 +1,5 @@
+#!/usr/bin/env coffee
+
 request = require "request"
 cheerio = require "cheerio"
 {createWriteStream} = require "fs"
